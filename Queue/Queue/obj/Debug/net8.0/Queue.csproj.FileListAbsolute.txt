@@ -1,0 +1,14 @@
+E:\C#\alaa\Queue\Queue\bin\Debug\net8.0\Queue.exe
+E:\C#\alaa\Queue\Queue\bin\Debug\net8.0\Queue.deps.json
+E:\C#\alaa\Queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+E:\C#\alaa\Queue\Queue\bin\Debug\net8.0\Queue.dll
+E:\C#\alaa\Queue\Queue\bin\Debug\net8.0\Queue.pdb
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.dll
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.pdb
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+E:\C#\alaa\Queue\Queue\obj\Debug\net8.0\ref\Queue.dll
